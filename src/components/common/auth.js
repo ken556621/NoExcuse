@@ -7,6 +7,7 @@ export default function(ComposedClass){
     class Auth extends Component {
         constructor(props) {
               super(props);
+              console.log(props)
         }
   
         componentDidMount(){
