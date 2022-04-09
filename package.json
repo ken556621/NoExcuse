@@ -48,7 +48,7 @@
     "firebase": "^7.7.0",
     "geolib": "^3.2.1",
     "google-maps-react": "^2.0.2",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "ngeohash": "^0.6.3",
     "node-sass": "^4.13.1",
     "react": "^16.12.0",
